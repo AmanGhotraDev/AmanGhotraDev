@@ -7,7 +7,7 @@ I'm a full-stack software developer with over 4 years of experience in front-end
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanghotradev&label=Profile%20views&color=0e75b6&style=flat" alt="amanghotradev" /> </p>
 
-- 🔭 I’m currently working as [Business Application Engineer](at DXC Technology)
+- 🔭 I’m currently working as **Business Application Engineer at DXC Technology**
 
 - 🌱 I’m currently learning **MBA in New Technologies**
 
