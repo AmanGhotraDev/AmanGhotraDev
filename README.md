@@ -148,9 +148,10 @@ Git, GitHub, JIRA, Confluence, ODI, Oracle DB, OBIEE -->
 
 </p>
 
+<!--
 ## 🔭 Projects
 
-- [Homologatufurgo.com](https://www.homologatufurgo.com/)
+- [Homologatufurgo.com](https://www.homologatufurgo.com/) -->
 
 <!-- ## 📊 GitHub Stats
 
