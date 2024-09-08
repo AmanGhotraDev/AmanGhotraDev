@@ -17,7 +17,7 @@ I'm a full-stack software developer with over 4 years of experience in front-end
 
 - 💬 Feel free to ask me if you have any question.
 
-- 📄 Know about my experiences [sukhpreet-singh-kaur](https://www.linkedin.com/in/sukhpreet-singh-kaur/)
+- 📄 Know about my experiences [in my Linkedin](https://www.linkedin.com/in/sukhpreet-singh-kaur/)
 
 ## 📫 Connect with Me
 
