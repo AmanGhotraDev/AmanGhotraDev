@@ -152,15 +152,15 @@ Git, GitHub, JIRA, Confluence, ODI, Oracle DB, OBIEE -->
 
 - [Homologatufurgo.com](https://www.homologatufurgo.com/)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amanghotradev&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amanghotradev&show_icons=true&theme=radical) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanghotradev&show_icons=true&locale=en&layout=compact" alt="amanghotradev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanghotradev&show_icons=true&locale=en" alt="amanghotradev" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanghotradev&" alt="amanghotradev" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanghotradev&" alt="amanghotradev" /></p> -->
 
 ## 💡 Fun fact
 
