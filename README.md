@@ -62,7 +62,7 @@ Git, GitHub, JIRA, Confluence, ODI, Oracle DB, OBIEE -->
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" style="background-color: white;" width="40" height="40">
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" style="background-color: white;" width="40" height="40"> -->
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/capacitor-js.svg" alt="capacitor" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
@@ -76,8 +76,8 @@ Git, GitHub, JIRA, Confluence, ODI, Oracle DB, OBIEE -->
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
 <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
 
