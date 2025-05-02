@@ -3,9 +3,8 @@
 <p align="center">
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20&#128104;&#8205;&#128187;;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25"/></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Software+Developer;Business+Application+Engineer)](https://git.io/typing-svg)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFBB5E&width=435&lines=Software+Developer;Business+Application+Engineer" alt="Typing SVG" />
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Software+Developer;Business+Application+Engineer)](https://git.io/typing-svg) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFBB5E&width=435&lines=Software+Developer;Business+Application+Engineer"/>
 </p>
 
 ## 🚀 About Me
