@@ -1,15 +1,12 @@
 <h1 align="center">Hello, World! 👋, I'm Aman Ghotra 🌟</h1>
 <!-- <h3 align="center">Software Developer 👨🏻‍💻 </h3> -->
 <p align="center">
-<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20&#128104;&#8205;&#128187;;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25"/></a> -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Software+Developer;Business+Application+Engineer)](https://git.io/typing-svg) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFBB5E&width=435&lines=Software+Developer;Business+Application+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20&#128104;&#8205;&#128187;;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 ## 🚀 About Me
 
-I'm a full-stack software developer with over 5 years of experience in front-end and back-end technologies. I'm passionate about process automation, web and mobile development, data analysis, and digital marketing strategies including SEO/SEM and data-driven marketing.
+I'm a full-stack software developer with over 4 years of experience in front-end and back-end technologies. I'm passionate about process automation, web and mobile development, data analysis, and digital marketing strategies including SEO/SEM and data-driven marketing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanghotradev&label=Profile%20views&color=0e75b6&style=flat" alt="amanghotradev" /> </p>
 
