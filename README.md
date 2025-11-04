@@ -148,9 +148,9 @@ Git, GitHub, JIRA, Confluence, ODI, Oracle DB, OBIEE -->
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-ads-1.svg" alt="google ads" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_optimize/google_optimize-icon.svg" alt="google optimize" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/semrush-1.svg" alt="semrush" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/820px-Google_Ads_logo.svg.png" alt="google ads" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/353823/google-optimize.svg" alt="google optimize" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2024/08/SEMrush-Emblem.png" alt="semrush" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="metabase" width="40" height="40"/>
 </p>
